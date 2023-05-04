@@ -1,9 +1,9 @@
 ---
-title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+title: Wartungsarbeiten
+date: 2023-05-25 10:00:00 
 informational: true
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+Es werden Wartungsarbeiten an den ExoTime Servern vorgenommen. In einem Zeitraum von 1 Stunde kann es zu Einschränkungen im Betrieb kommen
